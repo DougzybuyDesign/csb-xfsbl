@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "https://dougzybuydesign.github.io/csb-xfsbl/static/css/main.e7c053bc.chunk.css",
+    "main.js": "https://dougzybuydesign.github.io/csb-xfsbl/static/js/main.a11ac66a.chunk.js",
+    "main.js.map": "https://dougzybuydesign.github.io/csb-xfsbl/static/js/main.a11ac66a.chunk.js.map",
+    "runtime-main.js": "https://dougzybuydesign.github.io/csb-xfsbl/static/js/runtime-main.b24c624a.js",
+    "runtime-main.js.map": "https://dougzybuydesign.github.io/csb-xfsbl/static/js/runtime-main.b24c624a.js.map",
+    "static/css/2.0286f584.chunk.css": "https://dougzybuydesign.github.io/csb-xfsbl/static/css/2.0286f584.chunk.css",
+    "static/js/2.538ce1fe.chunk.js": "https://dougzybuydesign.github.io/csb-xfsbl/static/js/2.538ce1fe.chunk.js",
+    "static/js/2.538ce1fe.chunk.js.map": "https://dougzybuydesign.github.io/csb-xfsbl/static/js/2.538ce1fe.chunk.js.map",
+    "index.html": "https://dougzybuydesign.github.io/csb-xfsbl/index.html",
+    "static/css/2.0286f584.chunk.css.map": "https://dougzybuydesign.github.io/csb-xfsbl/static/css/2.0286f584.chunk.css.map",
+    "static/css/main.e7c053bc.chunk.css.map": "https://dougzybuydesign.github.io/csb-xfsbl/static/css/main.e7c053bc.chunk.css.map",
+    "static/js/2.538ce1fe.chunk.js.LICENSE.txt": "https://dougzybuydesign.github.io/csb-xfsbl/static/js/2.538ce1fe.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "https://dougzybuydesign.github.io/csb-xfsbl/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b24c624a.js",
+    "static/css/2.0286f584.chunk.css",
+    "static/js/2.538ce1fe.chunk.js",
+    "static/css/main.e7c053bc.chunk.css",
+    "static/js/main.a11ac66a.chunk.js"
+  ]
+}
